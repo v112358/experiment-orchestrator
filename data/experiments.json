@@ -1,0 +1,137 @@
+[
+  {
+    "id": "d5ddfc20",
+    "name": "Homepage Button Test",
+    "description": "Testing orange button",
+    "hypothesis": "Orange button increases CTR",
+    "surfaces": [
+      "homepage"
+    ],
+    "screens": [
+      "hero_section"
+    ],
+    "metrics": [
+      "click_through_rate"
+    ],
+    "start_date": "2026-02-10",
+    "duration_days": 7,
+    "end_date": "2026-02-17",
+    "created_at": "2026-01-27T22:09:48.419627",
+    "calendar_event_id": "is9b0qb33tre322o1eem6g6f6s",
+    "status": "planned",
+    "results": null
+  },
+  {
+    "id": "da5ba2f4",
+    "name": "Checkout Flow Test",
+    "description": "Testing payment form layout",
+    "hypothesis": "New layout increases conversion",
+    "surfaces": [
+      "checkout"
+    ],
+    "screens": [
+      "cart_summary"
+    ],
+    "metrics": [
+      "conversion_rate"
+    ],
+    "start_date": "2026-02-12",
+    "duration_days": 10,
+    "end_date": "2026-02-22",
+    "created_at": "2026-01-27T22:10:14.043020",
+    "calendar_event_id": "okccmrkeafi5l0423dgf790u70",
+    "status": "planned",
+    "results": null
+  },
+  {
+    "id": "83a93168",
+    "name": "Homepage CTA Test",
+    "description": "Testing call-to-action text",
+    "hypothesis": "New CTA increases conversion",
+    "surfaces": [
+      "homepage",
+      "checkout"
+    ],
+    "screens": [
+      "hero_section",
+      "cart_summary"
+    ],
+    "metrics": [
+      "click_through_rate",
+      "conversion_rate"
+    ],
+    "start_date": "2026-02-13",
+    "duration_days": 8,
+    "end_date": "2026-02-21",
+    "created_at": "2026-01-27T22:10:34.799515",
+    "calendar_event_id": "bei2jjf4usl0ejb0v4bc9st040",
+    "status": "planned",
+    "results": null
+  },
+  {
+    "id": "ae8f2ae9",
+    "name": "Homepage Hero Text Test",
+    "description": "Testing hero section copy changes",
+    "hypothesis": "Different copy increases CTR",
+    "surfaces": [
+      "homepage"
+    ],
+    "screens": [
+      "hero_section"
+    ],
+    "metrics": [
+      "click_through_rate"
+    ],
+    "start_date": "2026-02-11",
+    "duration_days": 8,
+    "end_date": "2026-02-19",
+    "created_at": "2026-01-27T22:11:33.718421",
+    "calendar_event_id": "673om9ljs3ic3uql0eqcf98fpo",
+    "status": "planned",
+    "results": null
+  },
+  {
+    "id": "2c5f2165",
+    "name": "Product Page Reviews Test",
+    "description": "Testing review display format",
+    "hypothesis": "Better review formatting increases helpfulness votes",
+    "surfaces": [
+      "product_page"
+    ],
+    "screens": [
+      "product_info"
+    ],
+    "metrics": [
+      "reviews_helpful"
+    ],
+    "start_date": "2026-02-10",
+    "duration_days": 10,
+    "end_date": "2026-02-20",
+    "created_at": "2026-01-28T16:34:10.574138",
+    "calendar_event_id": "79k5ui9ato9ne8p03l1auekrbs",
+    "status": "planned",
+    "results": null
+  },
+  {
+    "id": "970e9c33",
+    "name": "Homepage Hero Copy Test 2",
+    "description": "Testing hero section copy again",
+    "hypothesis": "Better copy increases CTR",
+    "surfaces": [
+      "homepage"
+    ],
+    "screens": [
+      "hero_section"
+    ],
+    "metrics": [
+      "click_through_rate"
+    ],
+    "start_date": "2026-02-23",
+    "duration_days": 5,
+    "end_date": "2026-02-28",
+    "created_at": "2026-01-28T16:41:20.705552",
+    "calendar_event_id": "tn4oqst7am747artv952n1bc10",
+    "status": "planned",
+    "results": null
+  }
+]
